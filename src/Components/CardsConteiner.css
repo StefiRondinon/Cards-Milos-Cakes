@@ -1,0 +1,18 @@
+/* .card:hover {
+    border: 2px solid rgb(255, 252, 252) !important;
+}
+
+
+
+.card-body {
+    padding: 2rem 0 !important;
+} */
+
+
+.card {
+    margin: 0 auto;  
+    float: none; 
+    margin-bottom: 10px; 
+    border: #000 !important;
+    border-color: #000;
+}

@@ -1,0 +1,15 @@
+.card{
+  color: #fff;
+  border: 1px solid black;
+}
+
+.card:hover {
+
+  box-shadow: 1px solid red !important;
+
+}
+
+.card-title {
+    color: rgb(110, 109, 109);
+}
+
